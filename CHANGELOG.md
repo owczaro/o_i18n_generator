@@ -1,6 +1,4 @@
-/// TODO
-
-## [0.1.0] - 12th of August 2020
+## [0.1.0] - 14th of October 2020
 
 - Create basic classes
 - Write documentation
