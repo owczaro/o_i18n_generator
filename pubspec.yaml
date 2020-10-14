@@ -1,6 +1,6 @@
 name: o_i18n_generator
-description: Merges [language-tag].json files from given path in root and all dependant packages. Creates a map with translations. You can redirect (from one key to another), overwrite and fill missing translations with values from default language.
-version: 0.1.0
+description: Collects and merges translation files.
+version: 0.1.1
 homepage: https://github.com/owczaro/o_i18n_generator
 
 environment:

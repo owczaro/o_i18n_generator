@@ -1,3 +1,9 @@
+## [0.1.1] - 14th of October 2020
+
+- Shortened description in `pubspec.yaml`
+- Format properly `DefaultLanguageException`
+- await for `OI18nGeneratorCommand().run()` in `bin\o_i18n_generator.dart`
+
 ## [0.1.0] - 14th of October 2020
 
 - Create basic classes
