@@ -1,0 +1,11 @@
+{"example_source_package": {
+  "key1": " Klucz 1",
+  "group1": {
+    "label": "Etykieta z grupy",
+    "description": "Opis z grupy"
+  },
+  "group2": {
+    "label": "-->example_source_package.group1.label",
+    "description": "-->example_source_package.group1.description"
+  }
+}}
