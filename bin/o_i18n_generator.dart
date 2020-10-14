@@ -120,7 +120,7 @@ Future<void> main(List<String> arguments) async {
       excludePackages: results[excludePackagesOption],
     );
 
-    OI18nGeneratorCommand().run();
+    await OI18nGeneratorCommand().run();
   } on FormatException catch (e) {
     print(e.toString());
     exit(1);
