@@ -1,6 +1,6 @@
 name: o_i18n_generator
 description: Collects and merges translation files from root and dependant packages.
-version: 0.1.1
+version: 0.1.1+1
 homepage: https://github.com/owczaro/o_i18n_generator
 
 environment:
