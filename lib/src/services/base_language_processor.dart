@@ -77,6 +77,7 @@ abstract class BaseLanguageProcessor {
           translations: _translations,
         );
         break;
+      // TODO: case arb
     }
   }
 }
